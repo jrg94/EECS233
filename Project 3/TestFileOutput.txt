@@ -1,0 +1,1 @@
+(a: 1)(amazing: 1)(isn: 1)(i: 1)(is: 3)(it: 3)(working: 1)(test: 1)(think: 1)(s: 1)(see: 1)(t: 1)(let: 1)(file: 1)(this: 1) The average chain length is 0.0625 which is roughly 0.
